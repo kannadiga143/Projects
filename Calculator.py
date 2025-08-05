@@ -59,7 +59,7 @@ def fibonacci(x):
             
 def calculator():
 
-    print('*******************calculator********************')
+    print('*******************calculator********************'.upper())
     print('select operation: ')
     print('\n1. Addition(two num)')
     print('2. subtraction')
